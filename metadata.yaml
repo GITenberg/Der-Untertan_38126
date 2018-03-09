@@ -1,0 +1,30 @@
+_repo: Der-Untertan_38126
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mann, Heinrich
+    birthdate: 1871
+    deathdate: 1950
+    gutenberg_agent_id: '35073'
+    url: http://www.gutenberg.org/2009/agents/35073
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Heinrich_Mann
+    - http://de.wikipedia.org/wiki/Heinrich_Mann
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2011-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38126'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- 20th century'
+- !lcc 'PT'
+- !lcsh 'Germany -- Politics and government -- Fiction'
+- !lcsh 'Satire, German'
+- GITenberg
+title: Der Untertan
+url: http://www.gutenberg.org/ebooks/38126
