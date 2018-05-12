@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Heinrich_Mann
     - http://de.wikipedia.org/wiki/Heinrich_Mann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38126#Der-Untertan
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2011-11-24'
 gutenberg_type: Text
